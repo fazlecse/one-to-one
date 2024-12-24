@@ -1,0 +1,37 @@
+[
+   {
+      "email": "yahoobaba@gamil.com",
+      "phone": 1212452145,
+      "address": "#123 YB Road",
+      "city": "Chandigarh",
+      "student_id": "1"
+   },
+   {
+      "email": "salman@gamil.com",
+      "phone": 4512478524,
+      "address": "#345 SK Road",
+      "city": "Mumbai",
+      "student_id": "2"
+   },
+   {
+      "email": "akshay@gamil.com",
+      "phone": 2542136545,
+      "address": "#456 AK Road",
+      "city": "Delhi",
+      "student_id": "3"
+   },
+   {
+      "email": "kriti@gamil.com",
+      "phone": 2321562145,
+      "address": "#678 KS Road",
+      "city": "Delhi",
+      "student_id": "4"
+   },
+   {
+      "email": "deepika@gamil.com",
+      "phone": 6548752421,
+      "address": "#321 DP Road",
+      "city": "Benglore",
+      "student_id": "5"
+   }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Yahoo Baba",
+        "email": "yahoobaba@gamil.com",
+        "age": 20,
+        "gender": "M"
+    },
+    {
+        "name": "Salman Khan",
+        "email": "salman@gamil.com",
+        "age": 22,
+        "gender": "M"
+    },
+    {
+        "name": "Akshay Kumar",
+        "email": "akshay@gamil.com",
+        "age": 23,
+        "gender": "M"
+    },
+    {
+        "name": "Kriti Sanon",
+        "email": "kriti@gamil.com",
+        "age": 20,
+        "gender": "F"
+    },
+    {
+        "name": "Deepika Padukone",
+        "email": "deepika@gamil.com",
+        "age": 20,
+        "gender": "F"
+    }
+]
